@@ -23,4 +23,8 @@ I've also implemented a way to access the arrow keys on both sides of the keybar
 - spacebar + ; turns the ijkl into arrow keys
 For consistency, first hold down spacebar then press the other modifier and arrow key at the same time.
 
-It is possible to add more keys like the function keys or the insert, delete, page up, page down, etc keys using similar combinations of keys, but these are not implemented. Note also the '6' key is not mirrored as it exists between both halves of the keyboard.
+It is possible to add more keys like the function keys or the insert, delete, page up, page down, etc keys using similar combinations of keys, but these are not implemented. 
+
+Note:
+- The '6' key is not mirrored as it exists between both halves of the keyboard.
+- Code is based on Ted Lilley's work with additions and modifications https://gist.github.com/binaryphile/3556283
