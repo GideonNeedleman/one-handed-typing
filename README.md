@@ -25,6 +25,7 @@ The left half of the keyboard actually has fewer keys than the right half. So fo
 I've also implemented a way to access the arrow keys on both sides of the keybard:
 - spacebar + Capslock turns the wasd keys into arrow keys
 - spacebar + ; turns the ijkl into arrow keys
+
 For consistency, first hold down spacebar then press the other modifier and arrow key at the same time.
 
 It is possible to add more keys like the function keys or the insert, delete, page up, page down, etc keys using similar combinations of keys, but these are not implemented. 
