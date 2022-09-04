@@ -1,7 +1,7 @@
 # one-handed-typing
 An autohotkey script that allows one-handed typing by mirroring the left and right sides of the keyboard
 
-You can run the .ahk script if you've installed [autohotkey]([url](https://www.autohotkey.com/)) otherwise you can run the .exe file. For Windows only.
+You can run the .ahk script if you've installed AutoHotkey https://www.autohotkey.com/ otherwise you can run the .exe file. For Windows only.
 
 This script allows you to use a normal QWERTY keyboard one-handed. It functions by mirroring the left and right sides of the keyboards when you hold down a modifier key; in this case spacebar. For example pressing the 'g' button will normally return the character 'g', however if you hold down the spacebar and press 'g' then it will return the character 'h'. Likewise spacebar + 'h' will return the character 'g'.
 
