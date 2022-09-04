@@ -12,6 +12,10 @@ To access the Enter key and Backspace key on the left hand side we use:
 - spacebar + Capslock = Enter
 - spacebar + Tab = Backspace
 
+Likewise, ont he right hand side:
+- spacebar + Enter = Capslock
+- spacebar + \ = Tab
+
 The left half of the keyboard actually has fewer keys than the right half. So for left-handed typing we use the 'f' key to access additional characters:
 - spacebar + f + Capslock = '
 - spacebar + f + w = [
