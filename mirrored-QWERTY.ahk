@@ -80,5 +80,9 @@ Capslock & s::Down
 Capslock & d::Right
 Capslock & w::Up
 
+`; & j::Left
+`; & k::Down
+`; & l::Right
+`; & i::Up
 
 #If
