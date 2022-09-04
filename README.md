@@ -4,7 +4,7 @@
 
 **This script allows you to use a normal QWERTY keyboard one-handed.** 
 
-It functions by mirroring the left and right sides of the keyboard when you hold down the spacebar. For example pressing the 'g' button will normally return the character 'g', however if you hold down the spacebar and press 'g' then it will return the character 'h'. Likewise spacebar + 'h' will return the character 'g'. This means you can type one-handed using the same QWERTY layout you already know. The index finger on the left hand can type characters from the index finger on the right hand. The right pinky can type characters from the left pinky, etc.
+It functions by mirroring the left and right sides of the keyboard when you hold down the spacebar. For example pressing the 'g' button will normally return the character 'g', however if you hold down the spacebar and press 'g' then it will return the character 'h'. Likewise spacebar + 'h' will return the character 'g'. This means you can type one-handed with either the left or right hand, using the same QWERTY layout you already know. Position your chosen hand over the home row keys and the index finger on the left hand can type characters from the index finger on the right hand. The right pinky can type characters from the left pinky, etc.
 
 There is a small delay needed when holding down the spacebar before you can get a mirrored output, default is set to 0.15 seconds, but this can be modified within the script. A side effect is that a space won't output until you release the spacebar key.
 
