@@ -12,7 +12,7 @@ To access the Enter key and Backspace key on the left hand side we use:
 - spacebar + Capslock = Enter
 - spacebar + Tab = Backspace
 
-Likewise, ont he right hand side:
+Likewise, on the right hand side:
 - spacebar + Enter = Capslock
 - spacebar + \ = Tab
 
