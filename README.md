@@ -35,6 +35,9 @@ Note:
 - It is possible to add more keys like the function keys or the insert, delete, page up, page down, etc keys using similar combinations, but these are not implemented. 
 - Code is based on Ted Lilley's work with additions and modifications https://gist.github.com/binaryphile/3556283
 
-Updates:
+CHANGELOG
 20220905
 Added spacebar + ; + 7 = 6 command to allow right hand to type number 6 when using a split keyboard.
+
+20220903
+Initial commit
