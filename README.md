@@ -26,10 +26,15 @@ I've also implemented a way to access the arrow keys on both sides of the keybar
 - spacebar + Capslock turns the wasd keys into arrow keys
 - spacebar + ; turns the ijkl into arrow keys
 
-For consistency, first hold down spacebar then press the other modifier and arrow key at the same time.
+The '6' key is located right down the middle, between both halves of the keyboard, so it can be reached with either left or right hand. However I've implemented an alternate shortcut to type '6' with the right hand using the ';' modifier key; good if you have a split keyboard or don't want to reach as far:
+- spacebar + ; + 7 = 6
 
-It is possible to add more keys like the function keys or the insert, delete, page up, page down, etc keys using similar combinations of keys, but these are not implemented. 
+For consistent output with additional modifer keys, first hold down spacebar then the other modifier and then the desired key.
 
 Note:
-- The '6' key is not mirrored as it exists between both halves of the keyboard.
+- It is possible to add more keys like the function keys or the insert, delete, page up, page down, etc keys using similar combinations, but these are not implemented. 
 - Code is based on Ted Lilley's work with additions and modifications https://gist.github.com/binaryphile/3556283
+
+Updates:
+20220905
+Added spacebar + ; + 7 = 6 command to allow right hand to type number 6 when using a split keyboard.
