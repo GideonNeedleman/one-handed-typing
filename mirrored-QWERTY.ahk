@@ -56,6 +56,7 @@ m::v
 3::9
 4::8
 5::7
+`; & 7::6   ; Special combination to type '6' using the right hand
 7::5
 8::4
 9::3
